@@ -12,7 +12,7 @@ cat << EOM > /var/www/html/index.html
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
   Welcome to ${PREFIX}'s app. Replace this text with your own.
-  <marquee behavior="scroll" direction="left">MY CUSTOM CONTENT!!!!!11</marquee>
+  <marquee behavior="scroll" direction="left">MY CUSTOM CONTENT with a change!!!!!</marquee>
   <!-- END -->
   
   </div>
